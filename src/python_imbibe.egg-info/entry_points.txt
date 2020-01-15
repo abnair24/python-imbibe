@@ -1,0 +1,3 @@
+[console_scripts]
+python-imbibe = python_imbibe.console:main
+

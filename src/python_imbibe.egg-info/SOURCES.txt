@@ -1,0 +1,9 @@
+setup.py
+src/python_imbibe/__init__.py
+src/python_imbibe/console.py
+src/python_imbibe.egg-info/PKG-INFO
+src/python_imbibe.egg-info/SOURCES.txt
+src/python_imbibe.egg-info/dependency_links.txt
+src/python_imbibe.egg-info/entry_points.txt
+src/python_imbibe.egg-info/requires.txt
+src/python_imbibe.egg-info/top_level.txt
