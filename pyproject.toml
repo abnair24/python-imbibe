@@ -10,6 +10,7 @@ authors = ["Aswathy Nair <aswathy.sreenath9@gmail.com>"]
 python = "^3.8"
 click = "^7.0"
 requests = "^2.22.0"
+pytest-mock = "^2.0.0"
 
 [tool.poetry.scripts]
 python-imbibe = "python_imbibe.console:main"
